@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brewery_detail_toolbar_title">Brewery Detail</string>
+    <string name="breweries_reset_error_button">Reset error</string>
+    <string name="breweries_list_toolbar_title">Breweries list</string>
+    <string name="brewery_detail_name_label">Name</string>
+    <string name="brewery_detail_web_label">Web</string>
+    <string name="brewery_detail_country_label">Country</string>
+    <string name="brewery_detail_city_label">City</string>
+</resources>
